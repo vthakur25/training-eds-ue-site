@@ -47,11 +47,6 @@
         "name": "title",
         "label": "Title"
       },
-       {
-      "type": "text",
-      "id": "og:title",
-      "label": "Open Graph Title"
-    },
       {
         "component": "select",
         "name": "titleType",
